@@ -1,0 +1,26 @@
+
+/*
+Theme Name: Modern WordPress Theme
+Theme URI: https://github.com/Arif6534/modern-wordpress-theme
+Author: Arif6534
+Author URI: https://github.com/Arif6534
+Description: A modern, responsive and lightweight WordPress theme.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.8
+Requires PHP: 7.4
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: modern-wordpress-theme
+Tags: blog, custom-background, custom-logo, custom-menu, featured-images, responsive-layout
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
